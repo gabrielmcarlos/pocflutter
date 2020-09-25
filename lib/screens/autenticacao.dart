@@ -4,7 +4,6 @@ import 'package:flutter_secure_storage/flutter_secure_storage.dart';
 import 'package:revendas/components/editor.dart';
 import 'package:revendas/screens/lista_propostas.dart';
 import 'package:revendas/services/autenticacao_service.dart';
-
 class Autenticacao extends StatelessWidget {
   final TextEditingController _controladorCampoLogin = TextEditingController();
   final TextEditingController _controladorCampoSenha = TextEditingController();

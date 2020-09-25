@@ -1,4 +1,4 @@
-#Wed Sep 23 14:41:41 BRT 2020
+#Fri Sep 25 14:15:28 BRT 2020
 base.0=/home/ubuntu/Documentos/estudos/flutter/revendas/build/app/intermediates/dex/debug/mergeDexDebug/out/classes.dex
 path.0=classes.dex
 renamed.0=classes.dex
