@@ -55,6 +55,7 @@ flutter:
     - assets/certs/intermediario3.crt
     - assets/certs/intermediario4.crt
     - assets/certs/sicredi.cer
+    - assets/certs/autoridade_sicredi.der
 
   # An image asset can refer to one or more resolution-specific "variants", see
   # https://flutter.dev/assets-and-images/#resolution-aware.
